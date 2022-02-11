@@ -1,0 +1,23 @@
+{
+  "name": "storybook-adder",
+  "private": true,
+  "version": "0.0.1",
+  "description": "A command to add StoryBook to your SvelteKit project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svelte",
+    "sveltekit",
+    "svelte-kit",
+    "storybook"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nilmanduil/storybook-adder.git"
+  },
+  "bugs": "https://github.com/Nilmanduil/storybook-adder/issues",
+  "homepage": "https://github.com/Nilmanduil/storybook-adder",
+  "author": "Nilmanduil",
+  "license": "MIT"
+}
